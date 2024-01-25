@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://i-like-dev.github.io/blog-example/sitemap.xml
