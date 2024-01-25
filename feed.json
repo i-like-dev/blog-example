@@ -5,9 +5,25 @@
     "home_page_url": "https://i-like-dev.github.io/blog-example",
     "feed_url": "https://i-like-dev.github.io/blog-example/feed.json",
     "user_comment": "",
+    "icon": "https://i-like-dev.github.io/blog-example/media/website/a-cute-cat-923472452.png",
     "author": {
         "name": "步行貓 Walking Cat"
     },
     "items": [
+        {
+            "id": "https://i-like-dev.github.io/blog-example/2024-p01.html",
+            "url": "https://i-like-dev.github.io/blog-example/2024-p01.html",
+            "title": "【守歲活動】",
+            "summary": "活動日期：2024年2月9日 晚餐後 活動地點：1樓 最後一項：本活動的活動時間大約是3-4.5個小時。 請注意：本活動時間可能會更動，在請留意網站及群組公告。",
+            "content_html": "<ol style=\"list-style-type: upper-alpha;\">\n<li>活動日期：2024年2月9日 晚餐後</li>\n<li>活動地點：1樓</li>\n<li>最後一項：本活動的活動時間大約是3-4.5個小時。</li>\n</ol>\n<p class=\"msg msg--warning\">  請注意：本活動時間<strong>可能</strong>會更動，在請留意網站及群組公告。</p>",
+            "author": {
+                "name": "步行貓 Walking Cat"
+            },
+            "tags": [
+                   "活動"
+            ],
+            "date_published": "2024-01-25T11:05:04+08:00",
+            "date_modified": "2024-01-25T11:05:04+08:00"
+        }
     ]
 }
