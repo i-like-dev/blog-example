@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "活動公告網站",
+    "title": "食譜網站",
     "description": "",
     "home_page_url": "https://i-like-dev.github.io/blog-example",
     "feed_url": "https://i-like-dev.github.io/blog-example/feed.json",

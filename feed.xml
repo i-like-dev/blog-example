@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>活動公告網站</title>
+    <title>食譜網站</title>
     <link href="https://i-like-dev.github.io/blog-example/feed.xml" rel="self" />
     <link href="https://i-like-dev.github.io/blog-example" />
     <updated>2024-01-25T11:15:02+08:00</updated>
